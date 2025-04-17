@@ -83,3 +83,5 @@ streamlit run app.py
 
 Feature engineering and data cleaning significantly improved the model's performance.
 
+
+[🔗 Face Similarity Detector App](https://facesimilaritydetector-qkezs3bupfepgvxubcxbqp.streamlit.app/)
