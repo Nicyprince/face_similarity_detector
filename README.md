@@ -44,8 +44,6 @@ Launch the Streamlit web interface:
 streamlit run app.py
 ```
 
-The app will be available at http://localhost:8501
-
 ## 📊 How It Works
 
 1. **Feature Engineering**: The model extracts both:
